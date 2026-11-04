@@ -1,6 +1,7 @@
 <body>
     <header>
         <h1>Praktikum CSS Gabungan</h1>
+        <h2>Tes</h2>
     </header>
     <nav>
         <ul>
